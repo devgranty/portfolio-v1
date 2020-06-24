@@ -2,7 +2,7 @@ import Vue from 'vue'
 import VueRouter from 'vue-router'
 import VueHead from 'vue-head'
 import Scrollspy from 'vue2-scrollspy'
-import VueGtm from 'vue-gtm'
+import VueAnalytics from 'vue-ua'
 
 import HomePage from './pages/HomePage/index.vue'
 import ShowcasePage from './pages/ShowcasePage/index.vue'
@@ -32,9 +32,10 @@ const router = new VueRouter({
 	}
 })
 
-Vue.use(VueGtm, {
-	id: 'GTM-TXGFHBQ',
-	enabled: true,
+Vue.use(VueAnalytics, {
+	appName: 'Grant Adiele',
+	appVersion: '1.1',
+	trackingId: 'UA-170094721-1',
 	VueRouter: router,
 })
 

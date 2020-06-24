@@ -57,6 +57,8 @@ export default {
         });
 
         AOS.init();
+
+        this.$ua.trackView('home')
     },
 
     head: {
