@@ -21,11 +21,7 @@ export default {
             }
         }
     },
-
-    mounted: function () {
-        this.$ua.trackView('404')
-    },
-
+    
     head: {
         title: function () {
             return {

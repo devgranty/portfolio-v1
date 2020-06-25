@@ -60,9 +60,7 @@ export default {
     },
 
     mounted: function () {
-        AOS.init();
-
-        this.$ua.trackView('case')
+        AOS.init()
     },
 
     data: function () {

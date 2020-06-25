@@ -46,19 +46,17 @@ export default {
 
     mounted: function () {
         /* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
-        particlesJS.load('myHero', './assets/json/myparticles-config.json');
+        particlesJS.load('myHero', './assets/json/myparticles-config.json')
 
-        var elem = document.querySelector('.whyme-carousel');
+        var elem = document.querySelector('.whyme-carousel')
         var flkty = new Flickity( elem, {
             cellAlign: 'center',
             contain: true,
             wrapAround: true,
             autoPlay: 3500
-        });
+        })
 
-        AOS.init();
-
-        this.$ua.trackView('home')
+        AOS.init()
     },
 
     head: {
