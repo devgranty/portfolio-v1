@@ -3,11 +3,11 @@ export default{
     "project-nx" : {
         projectName: 'Project NX', 
         projectDate: '2020', 
-        projectDisplayPhotoPath: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878576/uploads/project_nx/Project_NX/342462-PA9Q6O-452_ixadnl.png', 
+        projectDisplayPhotoPath: 'https://inspiring-bhabha-680629.netlify.app/project_nx/Project_NX/342462-PA9Q6O-452.png', 
         projectType: 'Web Design, Development', 
         projectPlatform: 'Mobile, Tablet, Desktop', 
         projectExternalLink: 'about:blank', 
-        projectContextPhotoPath: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878540/uploads/project_nx/project-nx-context-2880x1800_cwgl4v.png', 
+        projectContextPhotoPath: 'https://inspiring-bhabha-680629.netlify.app/project_nx/project-nx-context-2880x1800.png', 
 
         projectDesc: `<p>How about reading stories right on your mobile, on the go?!</p>
         <p>Reading stories you love right on your mobile devices is fun and I want to even make that a lot better!</p>
@@ -22,12 +22,12 @@ export default{
         <p>It's always an amazing feeling when you create stuffs and see millions of people make the best out of it each day. And Hey!, Don't ask the meaning of "NX" because I certainly have no idea, probably daydreaming when I gave it that name 😴</p>`, 
 
         projectScreenshots: [
-            {src: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878579/uploads/project_nx/Project_NX/localhost_projects_project_nx__Laptop_with_HiDPI_screen_tmbq0n.png'}, 
-            {src: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878562/uploads/project_nx/Project_NX/localhost_projects_project_nx__Laptop_with_MDPI_screen_oprm3e.png'}, 
-            {src: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878574/uploads/project_nx/Project_NX/localhost_projects_project_nx_forum.php_p_the-three-billy-goats-gruff_Laptop_with_MDPI_screen_xski1k.png'},
-            {src: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878582/uploads/project_nx/Project_NX/localhost_projects_project_nx_signup.php_Laptop_with_MDPI_screen_gnf6ib.png'},
-            {src: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878580/uploads/project_nx/Project_NX/localhost_projects_project_nx_signin.php_Laptop_with_MDPI_screen_1_hpao3s.png'},
-            {src: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878580/uploads/project_nx/Project_NX/localhost_projects_project_nx_signin.php_Laptop_with_MDPI_screen_cycupd.png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/project_nx/Project_NX/localhost_projects_project_nx__Laptop_with_HiDPI_screen.png'}, 
+            {src: 'https://inspiring-bhabha-680629.netlify.app/project_nx/Project_NX/localhost_projects_project_nx__Laptop_with_MDPI_screen.png'}, 
+            {src: 'https://inspiring-bhabha-680629.netlify.app/project_nx/Project_NX/localhost_projects_project_nx_forum.php_p_the-three-billy-goats-gruff_Laptop_with_MDPI_screen.png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/project_nx/Project_NX/localhost_projects_project_nx_signup.php_Laptop_with_MDPI_screen.png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/project_nx/Project_NX/localhost_projects_project_nx_signin.php_Laptop_with_MDPI_screen_1.png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/project_nx/Project_NX/localhost_projects_project_nx_signin.php_Laptop_with_MDPI_screen.png'},
         ]
     },
 
@@ -35,11 +35,11 @@ export default{
     "willow-investment" : {
         projectName: 'Willow Investment', 
         projectDate: '2019', 
-        projectDisplayPhotoPath: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878586/uploads/willow_investment/willow_investment/adult-attire-commerce-1367269_qbwi9k.png', 
+        projectDisplayPhotoPath: 'https://inspiring-bhabha-680629.netlify.app/willow_investment/willow_investment/adult-attire-commerce-1367269.png', 
         projectType: 'Web Design, Development', 
         projectPlatform: 'Mobile, Tablet, Desktop', 
         projectExternalLink: '//willowinvestment.net', 
-        projectContextPhotoPath: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878590/uploads/willow_investment/willow-investment-context-2880x1800_tploag.png', 
+        projectContextPhotoPath: 'https://inspiring-bhabha-680629.netlify.app/willow_investment/willow-investment-context-2880x1800.png', 
 
         projectDesc: `<p>Willow Investment is a Bitcoin Investment platform owned and managed by the Willow Group.</p>
         <p>Is Willow secured? - Yes!, Willow is pefectly secured as no transactions are done on the site. All transactions require an encrypted bitcoin wallet and data is only transferred via APIs.</p>`, 
@@ -52,12 +52,12 @@ export default{
         projectResult: `<p>"Amazing work Grant!", Delivering quickly, while making the entire project fuctional and intutive is not just about selecting the right code stack, the technologies has to be used correctly. Cheers to another great success 🥂</p>`, 
 
         projectScreenshots: [
-            {src: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878598/uploads/willow_investment/willow_investment/localhost_projects_willow_investment__Laptop_with_MDPI_screen_zkjrae.png'}, 
-            {src: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878599/uploads/willow_investment/willow_investment/localhost_projects_willow_investment_signup.php_Laptop_with_MDPI_screen_xgeic7.png'}, 
-            {src: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878598/uploads/willow_investment/willow_investment/localhost_projects_willow_investment_account_login.php_Laptop_with_MDPI_screen_hikstp.png'},
-            {src: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878595/uploads/willow_investment/willow_investment/localhost_projects_willow_investment__Laptop_with_MDPI_screen_3_rbux7m.png'},
-            {src: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878594/uploads/willow_investment/willow_investment/localhost_projects_willow_investment__Laptop_with_MDPI_screen_1_cmufk2.png'},
-            {src: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878598/uploads/willow_investment/willow_investment/localhost_projects_willow_investment__Laptop_with_MDPI_screen_2_j6bckl.png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/willow_investment/willow_investment/localhost_projects_willow_investment__Laptop_with_MDPI_screen.png'}, 
+            {src: 'https://inspiring-bhabha-680629.netlify.app/willow_investment/willow_investment/localhost_projects_willow_investment_signup.php_Laptop_with_MDPI_screen.png'}, 
+            {src: 'https://inspiring-bhabha-680629.netlify.app/willow_investment/willow_investment/localhost_projects_willow_investment_account_login.php_Laptop_with_MDPI_screen.png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/willow_investment/willow_investment/localhost_projects_willow_investment__Laptop_with_MDPI_screen_3.png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/willow_investment/willow_investment/localhost_projects_willow_investment__Laptop_with_MDPI_screen_1.png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/willow_investment/willow_investment/localhost_projects_willow_investment__Laptop_with_MDPI_screen_2.png'},
         ]
     },
 
@@ -65,11 +65,11 @@ export default{
     "movynet" : {
         projectName: 'Movynet', 
         projectDate: '2019', 
-        projectDisplayPhotoPath: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878515/uploads/movynet/Movynet/shazam-zachary-levi-jack-dylan-grazer_rlai8j.jpg', 
+        projectDisplayPhotoPath: 'https://inspiring-bhabha-680629.netlify.app/movynet/Movynet/shazam-zachary-levi-jack-dylan-grazer.jpg', 
         projectType: 'Web Design, Development', 
         projectPlatform: 'Mobile, Tablet, Desktop', 
         projectExternalLink: '//movynet.com', 
-        projectContextPhotoPath: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878493/uploads/movynet/movynet-context-2880x1800_izb4jr.png', 
+        projectContextPhotoPath: 'https://inspiring-bhabha-680629.netlify.app/movynet/movynet-context-2880x1800.png', 
 
         projectDesc: `<p>Simple, fast, useful and as immersive as possible. It's all about entertainment, it should as well be entertaining.</p>
         <p>Movynet is a simple and basic movie website I started personly to get know how some things in programming work. It's quite obvious that movies are one of the most entaintaining things and definitely worth some try.</p>`, 
@@ -84,13 +84,13 @@ export default{
         <p>The outcome?, Very desireable.</p>`, 
 
         projectScreenshots: [
-            {src: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878436/uploads/movynet/logos%2Cicons/movynet_logo_552x180_t5qp9h.png'}, 
-            {src: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878446/uploads/movynet/Movynet/localhost_projects_movynet__Laptop_with_MDPI_screen_amrqdm.png'}, 
-            {src: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878482/uploads/movynet/Movynet/localhost_projects_movynet_view.php_vwid_246_type_Movie_from_home_Laptop_with_MDPI_screen_xxw7mr.png'}, 
-            {src: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878475/uploads/movynet/Movynet/localhost_projects_movynet_view.php_vwid_246_type_Movie_from_home_Laptop_with_MDPI_screen_1_gno03o.png'},
-            {src: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878478/uploads/movynet/Movynet/localhost_projects_movynet_view.php_vwid_246_type_Movie_from_home_Laptop_with_MDPI_screen_4_xvp643.png'},
-            {src: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878479/uploads/movynet/Movynet/localhost_projects_movynet_view.php_vwid_246_type_Movie_from_home_Laptop_with_MDPI_screen_3_j3otke.png'},
-            {src: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878474/uploads/movynet/Movynet/localhost_projects_movynet_view.php_vwid_246_type_Movie_from_home_Laptop_with_MDPI_screen_2_trxvvh.png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/movynet/logos%2Cicons/movynet_logo_552x180.png'}, 
+            {src: 'https://inspiring-bhabha-680629.netlify.app/movynet/Movynet/localhost_projects_movynet__Laptop_with_MDPI_screen.png'}, 
+            {src: 'https://inspiring-bhabha-680629.netlify.app/movynet/Movynet/localhost_projects_movynet_view.php_vwid_246_type_Movie_from_home_Laptop_with_MDPI_screen.png'}, 
+            {src: 'https://inspiring-bhabha-680629.netlify.app/movynet/Movynet/localhost_projects_movynet_view.php_vwid_246_type_Movie_from_home_Laptop_with_MDPI_screen_1.png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/movynet/Movynet/localhost_projects_movynet_view.php_vwid_246_type_Movie_from_home_Laptop_with_MDPI_screen_4.png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/movynet/Movynet/localhost_projects_movynet_view.php_vwid_246_type_Movie_from_home_Laptop_with_MDPI_screen_3.png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/movynet/Movynet/localhost_projects_movynet_view.php_vwid_246_type_Movie_from_home_Laptop_with_MDPI_screen_2.png'},
         ]
     },
 
@@ -98,11 +98,11 @@ export default{
     "jovianbiz" : {
         projectName: 'Jovianbiz', 
         projectDate: '2018', 
-        projectDisplayPhotoPath: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878357/uploads/jovianbiz/Jovianbiz/adult-artist-band-274406_doztd6.gif', 
+        projectDisplayPhotoPath: 'https://inspiring-bhabha-680629.netlify.app/jovianbiz/Jovianbiz/adult-artist-band-274406.gif', 
         projectType: 'Web Design, Development', 
         projectPlatform: 'Mobile, Tablet, Desktop', 
         projectExternalLink: '//jovianbiz.com', 
-        projectContextPhotoPath: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878442/uploads/jovianbiz/jovianbiz-context-2880x1800_mo6frd.png', 
+        projectContextPhotoPath: 'https://inspiring-bhabha-680629.netlify.app/jovianbiz/jovianbiz-context-2880x1800.png', 
 
         projectDesc: `<p>Jovianbiz is a combination of two business segments.</p>
         <p>The Jovian Hair is concerned with sales of hair, hair products and accessories, while, Jovian Events is concerned with providing event services.</p>
@@ -117,12 +117,12 @@ export default{
         projectResult: `<p>"Wow!, this looks so beautiful and it is exactly what I needed.", Yes, once again our design strategy gave the best results!</p>`, 
 
         projectScreenshots: [
-            {src: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878402/uploads/jovianbiz/Jovianbiz/www.localhost_projects_jovianbiz_index.php_Laptop_with_MDPI_screen_hh9dlt.png'},
-            {src: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878434/uploads/jovianbiz/Jovianbiz/www.localhost_projects_jovianbiz_services__Laptop_with_MDPI_screen_p1lsg5.png'},
-            {src: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878368/uploads/jovianbiz/Jovianbiz/www.localhost_projects_jovianbiz_hair__Laptop_with_MDPI_screen_rt0uiq.png'},
-            {src: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878383/uploads/jovianbiz/Jovianbiz/www.localhost_projects_jovianbiz_hair_category.php_cat_h_h_w_Laptop_with_MDPI_screen_rfrh06.png'},
-            {src: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878387/uploads/jovianbiz/Jovianbiz/www.localhost_projects_jovianbiz_hair_product.php_pid_16_Laptop_with_MDPI_screen_hm3fs8.png'},
-            {src: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878439/uploads/jovianbiz/Jovianbiz/www.localhost_projects_jovianbiz_services__Laptop_with_MDPI_screen_1_ota9xq.png'}
+            {src: 'https://inspiring-bhabha-680629.netlify.app/jovianbiz/Jovianbiz/www.localhost_projects_jovianbiz_index.php_Laptop_with_MDPI_screen.png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/jovianbiz/Jovianbiz/www.localhost_projects_jovianbiz_services__Laptop_with_MDPI_screen.png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/jovianbiz/Jovianbiz/www.localhost_projects_jovianbiz_hair__Laptop_with_MDPI_screen.png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/jovianbiz/Jovianbiz/www.localhost_projects_jovianbiz_hair_category.php_cat_h_h_w_Laptop_with_MDPI_screen.png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/jovianbiz/Jovianbiz/www.localhost_projects_jovianbiz_hair_product.php_pid_16_Laptop_with_MDPI_screen.png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/jovianbiz/Jovianbiz/www.localhost_projects_jovianbiz_services__Laptop_with_MDPI_screen_1.png'}
         ]
     },
 
@@ -144,11 +144,11 @@ export default{
         projectResult: `<p>Since AdvBitcoinEarns was one my earliest independent project developemt, I was able to understand most functionalities of a web app and better ways to improve functionality, design and development.</p>`, 
 
         projectScreenshots: [
-            {src: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878327/uploads/advbitcoinearns/AdvbitcoinEarns/www.localhost_projects_advbitcoinearns__Laptop_with_MDPI_screen_fpa2aw.png'},
-            {src: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878345/uploads/advbitcoinearns/AdvbitcoinEarns/www.localhost_projects_advbitcoinearns_signup.php_Laptop_with_MDPI_screen_jd6jfp.png'},
-            {src: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878330/uploads/advbitcoinearns/AdvbitcoinEarns/www.localhost_projects_advbitcoinearns_login__Laptop_with_MDPI_screen_bzcuqr.png'},
-            {src: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878332/uploads/advbitcoinearns/AdvbitcoinEarns/www.localhost_projects_advbitcoinearns_login_withdraw.php_Galaxy_S5_chg9jf.png'},
-            {src: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878320/uploads/advbitcoinearns/AdvbitcoinEarns/www.localhost_projects_advbitcoinearns_index.php_Laptop_with_MDPI_screen_xo2lhz.png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/advbitcoinearns/AdvbitcoinEarns/www.localhost_projects_advbitcoinearns__Laptop_with_MDPI_screen.png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/advbitcoinearns/AdvbitcoinEarns/www.localhost_projects_advbitcoinearns_signup.php_Laptop_with_MDPI_screen.png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/advbitcoinearns/AdvbitcoinEarns/www.localhost_projects_advbitcoinearns_login__Laptop_with_MDPI_screen.png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/advbitcoinearns/AdvbitcoinEarns/www.localhost_projects_advbitcoinearns_login_withdraw.php_Galaxy_S5.png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/advbitcoinearns/AdvbitcoinEarns/www.localhost_projects_advbitcoinearns_index.php_Laptop_with_MDPI_screen.png'},
         ]
     },
 
@@ -156,11 +156,11 @@ export default{
     "myafriconnect" : {
         projectName: 'MyAfriConnect', 
         projectDate: '2018',
-        projectDisplayPhotoPath: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878530/uploads/myafriconnect/MyAfriConnect/cellist-band-music-performance_ksg2t1.jpg', 
+        projectDisplayPhotoPath: 'https://inspiring-bhabha-680629.netlify.app/myafriconnect/MyAfriConnect/cellist-band-music-performance.jpg', 
         projectType: 'Web Design, Development', 
         projectPlatform: 'Mobile, Tablet, Desktop', 
         projectExternalLink: '//myafriconnect.com', 
-        projectContextPhotoPath: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878550/uploads/myafriconnect/myafriconnect-context-2880x1800_vnbybm.png', 
+        projectContextPhotoPath: 'https://inspiring-bhabha-680629.netlify.app/myafriconnect/myafriconnect-context-2880x1800.png', 
 
         projectDesc: `<p>"Even though it is simple and quiet, we made great sounds!"</p>
         <p>MyAfriconnect is an audio and video music download platform. The idea is to build a native music catalogue for everyone to download their favourite African music.</p>`, 
@@ -172,10 +172,10 @@ export default{
         projectResult: `<p>The final outcome was powerful platform that keeps visitors in a total state of excitement. We recorded a tremendous increase in the daily visits from most African country, now that's what I call satisfaction!</p>`, 
 
         projectScreenshots: [
-            {src: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878519/uploads/myafriconnect/MyAfriConnect/127.0.0.1_5500__Laptop_with_MDPI_screen_2_z7pdqg.png'}, 
-            {src: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878519/uploads/myafriconnect/MyAfriConnect/127.0.0.1_5500__Laptop_with_MDPI_screen_1_jehtbn.png'}, 
-            {src: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878510/uploads/myafriconnect/MyAfriConnect/127.0.0.1_5500__Laptop_with_MDPI_screen_fnxbux.png'}, 
-            {src: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878530/uploads/myafriconnect/MyAfriConnect/127.0.0.1_5500_single.html_Laptop_with_MDPI_screen_n7u2sl.png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/myafriconnect/MyAfriConnect/127.0.0.1_5500__Laptop_with_MDPI_screen_2.png'}, 
+            {src: 'https://inspiring-bhabha-680629.netlify.app/myafriconnect/MyAfriConnect/127.0.0.1_5500__Laptop_with_MDPI_screen_1.png'}, 
+            {src: 'https://inspiring-bhabha-680629.netlify.app/myafriconnect/MyAfriConnect/127.0.0.1_5500__Laptop_with_MDPI_screen.png'}, 
+            {src: 'https://inspiring-bhabha-680629.netlify.app/myafriconnect/MyAfriConnect/127.0.0.1_5500_single.html_Laptop_with_MDPI_screen.png'},
         ]
     },
 }

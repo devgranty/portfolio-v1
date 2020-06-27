@@ -21,17 +21,17 @@ body{font-family: 'Raleway', sans-serif; background:var(--primary-color);}
 .navbar-links > ul > li > a::after{content:''; display:block; height:3px; width:100%; background:var(--color-gradient); position:absolute; bottom:0; width:0%; transition:all ease-in-out 270ms;}
 .navbar-links > ul > li > a:hover::after{width:100%;}
 .navbar-menu-btn{float:right; background:none; color:var(--compliment-color); font-weight:700; text-align:center; border-radius:10px; border:2px solid var(--secondary-color); padding:12px 8px; margin-top:4px;}
-.navbar-modal{background:var(--primary-color); height:calc(100vh - 50px); width:100%; position:absolute; left:0; top:50px; z-index:3;}
-.navbar-modal > ul{list-style-type:none; text-align:center;}
+.navbar-modal{background:var(--color-gradient); height:100vh; width:100%; position:absolute; left:0; z-index:-1;}
+.navbar-modal > ul{list-style-type:none; text-align:center; margin-top:60px;}
 .navbar-modal > ul > li{margin:25px 0; padding:15px 0;}
 .navbar-modal > ul > li > a{color:#000; text-decoration:none; font-weight:bolder; font-size:30px; position:relative;}
 .navbar-modal > ul > li > a::after{content:''; display:block; height:3px; width:50%; background:var(--color-gradient); position:absolute; left:0; bottom:-15px; width:0%; transition:all ease-in-out 270ms;}
 .navbar-modal > ul > li > a:hover::after{width:100%;}
-.router-link-active::after, .scrollspy-active::after{width:100%!important; background:var(--secondary-color)!important;}
+.scrollspy-active::after{width:100%!important; background:var(--secondary-color)!important;}
 
 .hero{background:url('../images/backgrounds/3238776-2.png'); background-position:center; background-size:cover; background-repeat:no-repeat; background-attachment:fixed; height:100vh; width:100%;}
 .hero-welcome-board{position:absolute; top:15%; left:10%; width:80%; word-break:break-word;}
-.hero-welcome-board > h1{color:var(--primary-color); text-align:center; font-size:calc(2em + 1vw); line-height:1.3;}
+.hero-welcome-board > h1{color:var(--primary-color); text-align:center; font-size:calc(2em + 1vw); line-height:1.3; position:absolute; top:10vh;}
 .hero-scroll-down{width:50px; text-align:center; position:absolute; left:50%; bottom:30px; margin-left:-25px; font-size:calc(1em + 1vw);}
 
 .icon-gradient{background:var(--color-gradient); -webkit-background-clip:text; background-clip:text; -webkit-text-fill-color:transparent; transition:all ease-in-out 270ms;}

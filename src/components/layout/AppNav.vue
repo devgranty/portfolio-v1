@@ -11,7 +11,7 @@
             </nav>
             <div>
                 <button v-on:click="showMenu = !showMenu" id="navbarModalBtn" class="navbar-menu-btn" role="button" aria-haspopup="true">{{ showMenu ? 'Close' : 'Menu' }}</button>
-                <transition enter-active-class="animate__animated animate__flipInY" leave-active-class="animate__animated animate__flipOutY">
+                <transition enter-active-class="animate__animated animate__fadeInRightBig" leave-active-class="animate__animated animate__fadeOutRightBig">
                     <nav v-show="showMenu" class="navbar-modal" id="navbarModal" role="menu" aria-modal="true">
                         <ul v-scroll-spy-active="{selector: '.scrollspy-find', class: 'scrollspy-active'}">
                             <li v-for="navbarLink in navbarLinks" v-bind:key="navbarLink.title">

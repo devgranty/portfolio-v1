@@ -31,17 +31,17 @@ export default {
     data: function () {
         return {
             projects:[
-                {link: 'case/project-nx', details: {color: '#000'}, title: 'project nx', type: 'Web design, development', imagePath: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878535/uploads/project_nx/project-nx-cover-600x600_h9ir2g.png'},
+                {link: 'case/project-nx', details: {color: '#000'}, title: 'project nx', type: 'Web design, development', imagePath: 'https://inspiring-bhabha-680629.netlify.app/project_nx/project-nx-cover-600x600.png'},
 
-                {link: 'case/willow-investment', details: {color: '#fff'}, title: 'willow investment', type: 'Web design, development', imagePath: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878585/uploads/willow_investment/willow-investment-cover-600x600_fipxwh.png'},
+                {link: 'case/willow-investment', details: {color: '#fff'}, title: 'willow investment', type: 'Web design, development', imagePath: 'https://inspiring-bhabha-680629.netlify.app/willow_investment/willow-investment-cover-600x600.png'},
 
-                {link: 'case/movynet', details: {color: '#dd0404'}, title: 'movynet', type: 'Web design, development', imagePath: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878483/uploads/movynet/movynet-cover-600x600_o2djmh.png'},
+                {link: 'case/movynet', details: {color: '#dd0404'}, title: 'movynet', type: 'Web design, development', imagePath: 'https://inspiring-bhabha-680629.netlify.app/movynet/movynet-cover-600x600.png'},
 
-                {link: 'case/jovianbiz', details: {color: '#fff'}, title: 'jovianbiz', type: 'Web design, development', imagePath: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878433/uploads/jovianbiz/jovianbiz-cover-600x600_lxz6me.png'},
+                {link: 'case/jovianbiz', details: {color: '#fff'}, title: 'jovianbiz', type: 'Web design, development', imagePath: 'https://inspiring-bhabha-680629.netlify.app/jovianbiz/jovianbiz-cover-600x600.png'},
 
-                {link: 'case/advbitcoinearns', details: {color: '#aaa'}, title: 'advbitcoinearns', type: 'Web design, development', imagePath: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878355/uploads/advbitcoinearns/advbitcoinearns-cover-600x600_tpxioj.png'},
+                {link: 'case/advbitcoinearns', details: {color: '#ee2000'}, title: 'advbitcoinearns', type: 'Web design, development', imagePath: 'https://inspiring-bhabha-680629.netlify.app/advbitcoinearns/advbitcoinearns-cover-600x600.png'},
 
-                {link: 'case/myafriconnect', details: {color: '#fff'}, title: 'myafriconnect', type: 'Web design, development', imagePath: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878481/uploads/myafriconnect/logos%2Cicons/logo-1080x1080_d25dtw.jpg'}
+                {link: 'case/myafriconnect', details: {color: '#fff'}, title: 'myafriconnect', type: 'Web design, development', imagePath: 'https://inspiring-bhabha-680629.netlify.app/myafriconnect/logos%2Cicons/logo-1080x1080.jpg'}
             ]
         }
     }

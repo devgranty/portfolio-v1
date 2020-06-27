@@ -1,14 +1,16 @@
 <template>
-    <div>
-        <app-nav/>
-        <home-hero/>
-        <div v-scroll-spy>
-            <home-me/>
-            <home-showcase/>
-            <home-whyme/>
-            <app-footer/>
+    <transition enter-active-class="animate__animated animate__fadeInLeftBig" leave-active-class="animate__animated animate__fadeOutLeftBig">
+        <div>
+            <app-nav/>
+            <home-hero/>
+            <div v-scroll-spy>
+                <home-me/>
+                <home-showcase/>
+                <home-whyme/>
+                <app-footer/>
+            </div>
         </div>
-    </div>
+    </transition>
 </template>
 
 <style>

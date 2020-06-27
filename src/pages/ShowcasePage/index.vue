@@ -1,21 +1,23 @@
 <template>
-    <div>
-        <app-nav/>
-        <showcase-context
-            v-bind:project-name="showcase.projectName"
-            v-bind:project-date="showcase.projectDate"
-            v-bind:project-display-photo-path="showcase.projectDisplayPhotoPath"
-            v-bind:project-type="showcase.projectType"
-            v-bind:project-platform="showcase.projectPlatform"
-            v-bind:project-external-link="showcase.projectExternalLink"
-            v-bind:project-context-photo-path="showcase.projectContextPhotoPath"
-        ><span v-html="showcase.projectDesc"></span></showcase-context>
-        <showcase-planning><span v-html="showcase.projectPlanning"></span></showcase-planning>
-        <showcase-result
-            v-bind:project-screenshots="showcase.projectScreenshots"
-        ><span v-html="showcase.projectResult"></span></showcase-result>
-        <app-footer/>
-    </div>
+    <transition enter-active-class="animate__animated animate__fadeInLeftBig" leave-active-class="animate__animated animate__fadeOutLeftBig">
+        <div>
+            <app-nav/>
+            <showcase-context
+                v-bind:project-name="showcase.projectName"
+                v-bind:project-date="showcase.projectDate"
+                v-bind:project-display-photo-path="showcase.projectDisplayPhotoPath"
+                v-bind:project-type="showcase.projectType"
+                v-bind:project-platform="showcase.projectPlatform"
+                v-bind:project-external-link="showcase.projectExternalLink"
+                v-bind:project-context-photo-path="showcase.projectContextPhotoPath"
+            ><span v-html="showcase.projectDesc"></span></showcase-context>
+            <showcase-planning><span v-html="showcase.projectPlanning"></span></showcase-planning>
+            <showcase-result
+                v-bind:project-screenshots="showcase.projectScreenshots"
+            ><span v-html="showcase.projectResult"></span></showcase-result>
+            <app-footer/>
+        </div>
+    </transition>
 </template>
 
 <style>
