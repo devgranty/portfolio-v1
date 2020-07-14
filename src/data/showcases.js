@@ -3,7 +3,7 @@ export default{
     "project-nx" : {
         projectName: 'Project NX', 
         projectDate: '2020', 
-        projectDisplayPhotoPath: 'https://inspiring-bhabha-680629.netlify.app/project_nx/Project_NX/342462-PA9Q6O-452.png', 
+        projectDisplayPhotoPath: 'https://inspiring-bhabha-680629.netlify.app/project_nx/screenshots/342462-PA9Q6O-452.png', 
         projectType: 'Web Design, Development', 
         projectPlatform: 'Mobile, Tablet, Desktop', 
         projectExternalLink: 'about:blank', 
@@ -22,12 +22,12 @@ export default{
         <p>It's always an amazing feeling when you create stuffs and see millions of people make the best out of it each day. And Hey!, Don't ask the meaning of "NX" because I certainly have no idea, probably daydreaming when I gave it that name 😴</p>`, 
 
         projectScreenshots: [
-            {src: 'https://inspiring-bhabha-680629.netlify.app/project_nx/Project_NX/localhost_projects_project_nx__Laptop_with_HiDPI_screen.png'}, 
-            {src: 'https://inspiring-bhabha-680629.netlify.app/project_nx/Project_NX/localhost_projects_project_nx__Laptop_with_MDPI_screen.png'}, 
-            {src: 'https://inspiring-bhabha-680629.netlify.app/project_nx/Project_NX/localhost_projects_project_nx_forum.php_p_the-three-billy-goats-gruff_Laptop_with_MDPI_screen.png'},
-            {src: 'https://inspiring-bhabha-680629.netlify.app/project_nx/Project_NX/localhost_projects_project_nx_signup.php_Laptop_with_MDPI_screen.png'},
-            {src: 'https://inspiring-bhabha-680629.netlify.app/project_nx/Project_NX/localhost_projects_project_nx_signin.php_Laptop_with_MDPI_screen_1.png'},
-            {src: 'https://inspiring-bhabha-680629.netlify.app/project_nx/Project_NX/localhost_projects_project_nx_signin.php_Laptop_with_MDPI_screen.png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/project_nx/screenshots/localhost_projects_project_nx_(Laptop with HiDPI screen).png'}, 
+            {src: 'https://inspiring-bhabha-680629.netlify.app/project_nx/screenshots/localhost_projects_project_nx_(Laptop with MDPI screen).png'}, 
+            {src: 'https://inspiring-bhabha-680629.netlify.app/project_nx/screenshots/localhost_projects_project_nx_forum.php_p=the-three-billy-goats-gruff(Laptop with MDPI screen).png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/project_nx/screenshots/localhost_projects_project_nx_signup.php(Laptop with MDPI screen).png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/project_nx/screenshots/localhost_projects_project_nx_signin.php(Laptop with MDPI screen) (1).png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/project_nx/screenshots/localhost_projects_project_nx_signin.php(Laptop with MDPI screen).png'},
         ]
     },
 
@@ -35,7 +35,7 @@ export default{
     "willow-investment" : {
         projectName: 'Willow Investment', 
         projectDate: '2019', 
-        projectDisplayPhotoPath: 'https://inspiring-bhabha-680629.netlify.app/willow_investment/willow_investment/adult-attire-commerce-1367269.png', 
+        projectDisplayPhotoPath: 'https://inspiring-bhabha-680629.netlify.app/willow_investment/screenshots/adult-attire-commerce-1367269.png', 
         projectType: 'Web Design, Development', 
         projectPlatform: 'Mobile, Tablet, Desktop', 
         projectExternalLink: '//willowinvestment.net', 
@@ -52,12 +52,12 @@ export default{
         projectResult: `<p>"Amazing work Grant!", Delivering quickly, while making the entire project fuctional and intutive is not just about selecting the right code stack, the technologies has to be used correctly. Cheers to another great success 🥂</p>`, 
 
         projectScreenshots: [
-            {src: 'https://inspiring-bhabha-680629.netlify.app/willow_investment/willow_investment/localhost_projects_willow_investment__Laptop_with_MDPI_screen.png'}, 
-            {src: 'https://inspiring-bhabha-680629.netlify.app/willow_investment/willow_investment/localhost_projects_willow_investment_signup.php_Laptop_with_MDPI_screen.png'}, 
-            {src: 'https://inspiring-bhabha-680629.netlify.app/willow_investment/willow_investment/localhost_projects_willow_investment_account_login.php_Laptop_with_MDPI_screen.png'},
-            {src: 'https://inspiring-bhabha-680629.netlify.app/willow_investment/willow_investment/localhost_projects_willow_investment__Laptop_with_MDPI_screen_3.png'},
-            {src: 'https://inspiring-bhabha-680629.netlify.app/willow_investment/willow_investment/localhost_projects_willow_investment__Laptop_with_MDPI_screen_1.png'},
-            {src: 'https://inspiring-bhabha-680629.netlify.app/willow_investment/willow_investment/localhost_projects_willow_investment__Laptop_with_MDPI_screen_2.png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/willow_investment/screenshots/localhost_projects_willow_investment_(Laptop with MDPI screen).png'}, 
+            {src: 'https://inspiring-bhabha-680629.netlify.app/willow_investment/screenshots/localhost_projects_willow_investment_signup.php(Laptop with MDPI screen).png'}, 
+            {src: 'https://inspiring-bhabha-680629.netlify.app/willow_investment/screenshots/localhost_projects_willow_investment_account_login.php(Laptop with MDPI screen).png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/willow_investment/screenshots/localhost_projects_willow_investment_(Laptop with MDPI screen) (3).png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/willow_investment/screenshots/localhost_projects_willow_investment_(Laptop with MDPI screen) (1).png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/willow_investment/screenshots/localhost_projects_willow_investment_(Laptop with MDPI screen) (2).png'},
         ]
     },
 
@@ -65,7 +65,7 @@ export default{
     "movynet" : {
         projectName: 'Movynet', 
         projectDate: '2019', 
-        projectDisplayPhotoPath: 'https://inspiring-bhabha-680629.netlify.app/movynet/Movynet/shazam-zachary-levi-jack-dylan-grazer.jpg', 
+        projectDisplayPhotoPath: 'https://inspiring-bhabha-680629.netlify.app/movynet/screenshots/shazam-zachary-levi-jack-dylan-grazer.jpg', 
         projectType: 'Web Design, Development', 
         projectPlatform: 'Mobile, Tablet, Desktop', 
         projectExternalLink: '//movynet.com', 
@@ -84,13 +84,13 @@ export default{
         <p>The outcome?, Very desireable.</p>`, 
 
         projectScreenshots: [
-            {src: 'https://inspiring-bhabha-680629.netlify.app/movynet/logos%2Cicons/movynet_logo_552x180.png'}, 
-            {src: 'https://inspiring-bhabha-680629.netlify.app/movynet/Movynet/localhost_projects_movynet__Laptop_with_MDPI_screen.png'}, 
-            {src: 'https://inspiring-bhabha-680629.netlify.app/movynet/Movynet/localhost_projects_movynet_view.php_vwid_246_type_Movie_from_home_Laptop_with_MDPI_screen.png'}, 
-            {src: 'https://inspiring-bhabha-680629.netlify.app/movynet/Movynet/localhost_projects_movynet_view.php_vwid_246_type_Movie_from_home_Laptop_with_MDPI_screen_1.png'},
-            {src: 'https://inspiring-bhabha-680629.netlify.app/movynet/Movynet/localhost_projects_movynet_view.php_vwid_246_type_Movie_from_home_Laptop_with_MDPI_screen_4.png'},
-            {src: 'https://inspiring-bhabha-680629.netlify.app/movynet/Movynet/localhost_projects_movynet_view.php_vwid_246_type_Movie_from_home_Laptop_with_MDPI_screen_3.png'},
-            {src: 'https://inspiring-bhabha-680629.netlify.app/movynet/Movynet/localhost_projects_movynet_view.php_vwid_246_type_Movie_from_home_Laptop_with_MDPI_screen_2.png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/movynet/logos/movynet_logo_552x180.png'}, 
+            {src: 'https://inspiring-bhabha-680629.netlify.app/movynet/screenshots/localhost_projects_movynet_(Laptop with MDPI screen).png'}, 
+            {src: 'https://inspiring-bhabha-680629.netlify.app/movynet/screenshots/localhost_projects_movynet_view.php_vwid=246&type=Movie&from=home(Laptop with MDPI screen).png'}, 
+            {src: 'https://inspiring-bhabha-680629.netlify.app/movynet/screenshots/localhost_projects_movynet_view.php_vwid=246&type=Movie&from=home(Laptop with MDPI screen) (1).png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/movynet/screenshots/localhost_projects_movynet_view.php_vwid=246&type=Movie&from=home(Laptop with MDPI screen) (4).png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/movynet/screenshots/localhost_projects_movynet_view.php_vwid=246&type=Movie&from=home(Laptop with MDPI screen) (3).png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/movynet/screenshots/localhost_projects_movynet_view.php_vwid=246&type=Movie&from=home(Laptop with MDPI screen) (2).png'},
         ]
     },
 
@@ -98,7 +98,7 @@ export default{
     "jovianbiz" : {
         projectName: 'Jovianbiz', 
         projectDate: '2018', 
-        projectDisplayPhotoPath: 'https://inspiring-bhabha-680629.netlify.app/jovianbiz/Jovianbiz/adult-artist-band-274406.gif', 
+        projectDisplayPhotoPath: 'https://inspiring-bhabha-680629.netlify.app/jovianbiz/screenshots/adult-artist-band-274406.gif', 
         projectType: 'Web Design, Development', 
         projectPlatform: 'Mobile, Tablet, Desktop', 
         projectExternalLink: '//jovianbiz.com', 
@@ -117,12 +117,12 @@ export default{
         projectResult: `<p>"Wow!, this looks so beautiful and it is exactly what I needed.", Yes, once again our design strategy gave the best results!</p>`, 
 
         projectScreenshots: [
-            {src: 'https://inspiring-bhabha-680629.netlify.app/jovianbiz/Jovianbiz/www.localhost_projects_jovianbiz_index.php_Laptop_with_MDPI_screen.png'},
-            {src: 'https://inspiring-bhabha-680629.netlify.app/jovianbiz/Jovianbiz/www.localhost_projects_jovianbiz_services__Laptop_with_MDPI_screen.png'},
-            {src: 'https://inspiring-bhabha-680629.netlify.app/jovianbiz/Jovianbiz/www.localhost_projects_jovianbiz_hair__Laptop_with_MDPI_screen.png'},
-            {src: 'https://inspiring-bhabha-680629.netlify.app/jovianbiz/Jovianbiz/www.localhost_projects_jovianbiz_hair_category.php_cat_h_h_w_Laptop_with_MDPI_screen.png'},
-            {src: 'https://inspiring-bhabha-680629.netlify.app/jovianbiz/Jovianbiz/www.localhost_projects_jovianbiz_hair_product.php_pid_16_Laptop_with_MDPI_screen.png'},
-            {src: 'https://inspiring-bhabha-680629.netlify.app/jovianbiz/Jovianbiz/www.localhost_projects_jovianbiz_services__Laptop_with_MDPI_screen_1.png'}
+            {src: 'https://inspiring-bhabha-680629.netlify.app/jovianbiz/screenshots/www.localhost_projects_jovianbiz_index.php(Laptop with MDPI screen).png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/jovianbiz/screenshots/www.localhost_projects_jovianbiz_services_(Laptop with MDPI screen).png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/jovianbiz/screenshots/www.localhost_projects_jovianbiz_hair_(Laptop with MDPI screen).png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/jovianbiz/screenshots/www.localhost_projects_jovianbiz_hair_category.php_cat=h_h_w(Laptop with MDPI screen).png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/jovianbiz/screenshots/www.localhost_projects_jovianbiz_hair_product.php_pid=16(Laptop with MDPI screen).png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/jovianbiz/screenshots/www.localhost_projects_jovianbiz_services_(Laptop with MDPI screen) (1).png'}
         ]
     },
 
@@ -130,11 +130,11 @@ export default{
     "advbitcoinearns" : {
         projectName: 'AdvBitcoinEarns', 
         projectDate: '2018', 
-        projectDisplayPhotoPath: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878368/uploads/advbitcoinearns/AdvbitcoinEarns/2847547_t3qy5n.png', 
+        projectDisplayPhotoPath: 'https://inspiring-bhabha-680629.netlify.app/advbitcoinearns/screenshots/2847547.png.png', 
         projectType: 'Web Design, Development', 
         projectPlatform: 'Mobile, Tablet, Desktop', 
         projectExternalLink: '//advbitcoinearns.com', 
-        projectContextPhotoPath: 'https://res.cloudinary.com/dzw3gozjl/image/upload/v1592878368/uploads/advbitcoinearns/advbitcoinearns-context-2880x1800_fdfwxe.png', 
+        projectContextPhotoPath: 'https://inspiring-bhabha-680629.netlify.app/advbitcoinearns/advbitcoinearns-context-2880x1800.png', 
         projectDesc: '<p>AdvBitcoinEarns is a bitcoin investment platform, created for the sole purpose of safe and secure bitcoin investments.</p>', 
 
         projectPlanning: `<p>AdvBitoinEarns design and development was one of the quickest and fastest I have ever worked on. This was a result of the AdvBitcoinEarns group's need to launch the platform as quick as possible.</p>
@@ -144,11 +144,11 @@ export default{
         projectResult: `<p>Since AdvBitcoinEarns was one my earliest independent project developemt, I was able to understand most functionalities of a web app and better ways to improve functionality, design and development.</p>`, 
 
         projectScreenshots: [
-            {src: 'https://inspiring-bhabha-680629.netlify.app/advbitcoinearns/AdvbitcoinEarns/www.localhost_projects_advbitcoinearns__Laptop_with_MDPI_screen.png'},
-            {src: 'https://inspiring-bhabha-680629.netlify.app/advbitcoinearns/AdvbitcoinEarns/www.localhost_projects_advbitcoinearns_signup.php_Laptop_with_MDPI_screen.png'},
-            {src: 'https://inspiring-bhabha-680629.netlify.app/advbitcoinearns/AdvbitcoinEarns/www.localhost_projects_advbitcoinearns_login__Laptop_with_MDPI_screen.png'},
-            {src: 'https://inspiring-bhabha-680629.netlify.app/advbitcoinearns/AdvbitcoinEarns/www.localhost_projects_advbitcoinearns_login_withdraw.php_Galaxy_S5.png'},
-            {src: 'https://inspiring-bhabha-680629.netlify.app/advbitcoinearns/AdvbitcoinEarns/www.localhost_projects_advbitcoinearns_index.php_Laptop_with_MDPI_screen.png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/advbitcoinearns/screenshots/www.localhost_projects_advbitcoinearns_(Laptop with MDPI screen).png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/advbitcoinearns/screenshots/www.localhost_projects_advbitcoinearns_signup.php(Laptop with MDPI screen).png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/advbitcoinearns/screenshots/www.localhost_projects_advbitcoinearns_login_(Laptop with MDPI screen).png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/advbitcoinearns/screenshots/www.localhost_projects_advbitcoinearns_login_withdraw.php(Laptop with MDPI screen).png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/advbitcoinearns/screenshots/www.localhost_projects_advbitcoinearns_index.php(Laptop with MDPI screen).png'},
         ]
     },
 
@@ -156,7 +156,7 @@ export default{
     "myafriconnect" : {
         projectName: 'MyAfriConnect', 
         projectDate: '2018',
-        projectDisplayPhotoPath: 'https://inspiring-bhabha-680629.netlify.app/myafriconnect/MyAfriConnect/cellist-band-music-performance.jpg', 
+        projectDisplayPhotoPath: 'https://inspiring-bhabha-680629.netlify.app/myafriconnect/screenshots/cellist-band-music-performance.jpg', 
         projectType: 'Web Design, Development', 
         projectPlatform: 'Mobile, Tablet, Desktop', 
         projectExternalLink: '//myafriconnect.com', 
@@ -172,10 +172,10 @@ export default{
         projectResult: `<p>The final outcome was powerful platform that keeps visitors in a total state of excitement. We recorded a tremendous increase in the daily visits from most African country, now that's what I call satisfaction!</p>`, 
 
         projectScreenshots: [
-            {src: 'https://inspiring-bhabha-680629.netlify.app/myafriconnect/MyAfriConnect/127.0.0.1_5500__Laptop_with_MDPI_screen_2.png'}, 
-            {src: 'https://inspiring-bhabha-680629.netlify.app/myafriconnect/MyAfriConnect/127.0.0.1_5500__Laptop_with_MDPI_screen_1.png'}, 
-            {src: 'https://inspiring-bhabha-680629.netlify.app/myafriconnect/MyAfriConnect/127.0.0.1_5500__Laptop_with_MDPI_screen.png'}, 
-            {src: 'https://inspiring-bhabha-680629.netlify.app/myafriconnect/MyAfriConnect/127.0.0.1_5500_single.html_Laptop_with_MDPI_screen.png'},
+            {src: 'https://inspiring-bhabha-680629.netlify.app/myafriconnect/screenshots/127.0.0.1_5500_(Laptop with MDPI screen) (2).png'}, 
+            {src: 'https://inspiring-bhabha-680629.netlify.app/myafriconnect/screenshots/127.0.0.1_5500_(Laptop with MDPI screen) (1).png'}, 
+            {src: 'https://inspiring-bhabha-680629.netlify.app/myafriconnect/screenshots/127.0.0.1_5500_(Laptop with MDPI screen).png'}, 
+            {src: 'https://inspiring-bhabha-680629.netlify.app/myafriconnect/screenshots/127.0.0.1_5500_single.html(Laptop with MDPI screen).png'},
         ]
     },
 }
