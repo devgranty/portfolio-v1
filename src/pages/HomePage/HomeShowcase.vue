@@ -1,7 +1,7 @@
 <template>
     <section class="page-section">
         <div class="inner-container">
-            <h1 class="section-heading" id="showcase">Showcase <router-link to="#showcase" class="section-anchor-id icon-gradient"><i class="fas fa-link" aria-hidden="true"></i></router-link></h1>
+            <h1 class="section-heading" id="showcase">Showcase <router-link to="#showcase"><i class="fas fa-link section-anchor-id icon-gradient" aria-hidden="true"></i></router-link></h1>
             <p class="section-headline">Some projects I've worked on independently.</p>
             <div class="container-fluid">
                 <div class="row">
@@ -41,7 +41,7 @@ export default {
 
                 {link: 'case/advbitcoinearns', details: {color: '#ee2000'}, title: 'advbitcoinearns', type: 'Web design, development', imagePath: 'https://inspiring-bhabha-680629.netlify.app/advbitcoinearns/advbitcoinearns-cover-600x600.png'},
 
-                {link: 'case/myafriconnect', details: {color: '#fff'}, title: 'myafriconnect', type: 'Web design, development', imagePath: 'https://inspiring-bhabha-680629.netlify.app/myafriconnect/logos%2Cicons/logo-1080x1080.jpg'}
+                {link: 'case/myafriconnect', details: {color: '#fff'}, title: 'myafriconnect', type: 'Web design, development', imagePath: 'https://inspiring-bhabha-680629.netlify.app/myafriconnect/logos/logo-1080x1080.jpg'}
             ]
         }
     }

@@ -1,7 +1,7 @@
 <template>
     <section class="page-section">
         <div class="inner-container">
-            <h1 class="section-heading" id="whyme">Why Me <router-link to="#whyme" class="section-anchor-id icon-gradient"><i class="fas fa-link" aria-hidden="true"></i></router-link></h1>
+            <h1 class="section-heading" id="whyme">Why Me <router-link to="#whyme"><i class="fas fa-link section-anchor-id icon-gradient" aria-hidden="true"></i></router-link></h1>
             <p class="section-headline">Still not convinced? Here are some "WHY ME" reasons.</p>
 
             <div class="whyme-carousel">

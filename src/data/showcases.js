@@ -130,7 +130,7 @@ export default{
     "advbitcoinearns" : {
         projectName: 'AdvBitcoinEarns', 
         projectDate: '2018', 
-        projectDisplayPhotoPath: 'https://inspiring-bhabha-680629.netlify.app/advbitcoinearns/screenshots/2847547.png.png', 
+        projectDisplayPhotoPath: 'https://inspiring-bhabha-680629.netlify.app/advbitcoinearns/screenshots/2847547.png', 
         projectType: 'Web Design, Development', 
         projectPlatform: 'Mobile, Tablet, Desktop', 
         projectExternalLink: '//advbitcoinearns.com', 
