@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: grantadiele.me
-Token: 2cda58dbdceb1b09dfba8d9327840eda703accc8b9294601e1451cff3193d2a3
