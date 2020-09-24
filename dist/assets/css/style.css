@@ -21,13 +21,18 @@ body{font-family: 'Raleway', sans-serif; background:var(--primary-color);}
 .navbar-links > ul > li > a::after{content:''; display:block; height:3px; width:100%; background:var(--color-gradient); position:absolute; bottom:0; width:0%; transition:all ease-in-out 270ms;}
 .navbar-links > ul > li > a:hover::after{width:100%;}
 .navbar-menu-btn{float:right; background:none; color:var(--compliment-color); font-weight:700; text-align:center; border-radius:10px; border:2px solid var(--secondary-color); padding:12px 8px; margin-top:4px;}
-.navbar-modal{background:var(--color-gradient); height:100vh; width:100%; position:absolute; left:0; z-index:-1;}
-.navbar-modal > ul{list-style-type:none; text-align:center; margin-top:60px;}
-.navbar-modal > ul > li{margin:25px 0; padding:15px 0;}
-.navbar-modal > ul > li > a{color:#000; text-decoration:none; font-weight:bolder; font-size:30px; position:relative;}
-.navbar-modal > ul > li > a::after{content:''; display:block; height:3px; width:50%; background:var(--color-gradient); position:absolute; left:0; bottom:-15px; width:0%; transition:all ease-in-out 270ms;}
-.navbar-modal > ul > li > a:hover::after{width:100%;}
+.navbar-modal{background:var(--primary-color); height:100vh; width:100%; position:absolute; left:0; z-index:-1;}
+.navbar-modal > .nav-link{list-style-type:none; text-align:center; margin-top:60px;}
+.navbar-modal > .nav-link > li{margin:25px 0; padding:15px 0;}
+.navbar-modal > .nav-link > li > a{color:#000; text-decoration:none; font-weight:bolder; font-size:30px; position:relative;}
+.navbar-modal > .nav-link > li > a::after{content:''; display:block; height:3px; width:50%; background:var(--color-gradient); position:absolute; left:0; bottom:-15px; width:0%; transition:all ease-in-out 270ms;}
+.navbar-modal > .nav-link > li > a:hover::after{width:100%;}
 .scrollspy-active::after{width:100%!important; background:var(--secondary-color)!important;}
+
+.media-profiles-ul{list-style-type:none; text-align:center; margin-top:30px;}
+.media-profiles-ul > li{display:inline-block; margin:20px 15px 0;}
+.media-profiles-ul > li > a{font-size:calc(1.4em + 1vw); transition:all ease-in-out 270ms; color:inherit;}
+.media-profiles-ul > li > a:hover{color:var(--compliment-color);}
 
 .hero{background:url('../images/backgrounds/3238776-2.png'); background-position:right; background-size:cover; background-repeat:no-repeat; height:100vh; width:100%;}
 .hero-welcome-board{position:absolute; top:15%; left:10%; width:80%; overflow-wrap:break-word;}
