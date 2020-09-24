@@ -31,7 +31,7 @@ export default {
     data: function () {
         return {
             projects:[
-                {link: 'case/mproject-nx', details: {color: '#000'}, title: 'project nx', type: 'Web design, development', imagePath: 'https://inspiring-bhabha-680629.netlify.app/project_nx/project-nx-cover-600x600.png'},
+                {link: 'case/project-nx', details: {color: '#000'}, title: 'project nx', type: 'Web design, development', imagePath: 'https://inspiring-bhabha-680629.netlify.app/project_nx/project-nx-cover-600x600.png'},
 
                 {link: 'case/movynet', details: {color: '#dd0404'}, title: 'movynet', type: 'Web design, development', imagePath: 'https://inspiring-bhabha-680629.netlify.app/movynet/movynet-cover-600x600.png'},
 
