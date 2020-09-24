@@ -30,7 +30,8 @@ module.exports = {
 
   output: {
     path: path.resolve(__dirname, 'dist'),
-    filename: '[name].[hash].js',
+    // filename: '[name].[hash].js',
+    filename: '[name].21092020.js',
   },
   
   optimization: {
