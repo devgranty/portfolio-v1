@@ -13,10 +13,18 @@
                 <button v-on:click="showMenu = !showMenu" id="navbarModalBtn" class="navbar-menu-btn" role="button" aria-haspopup="true">{{ showMenu ? 'Close' : 'Menu' }}</button>
                 <transition enter-active-class="animate__animated animate__fadeInRightBig" leave-active-class="animate__animated animate__fadeOutRightBig">
                     <nav v-show="showMenu" class="navbar-modal" id="navbarModal" role="menu" aria-modal="true">
-                        <ul v-scroll-spy-active="{selector: '.scrollspy-find', class: 'scrollspy-active'}">
+                        <ul v-scroll-spy-active="{selector: '.scrollspy-find', class: 'scrollspy-active'}" class="nav-link">
                             <li v-for="navbarLink in navbarLinks" v-bind:key="navbarLink.title">
                                 <router-link v-bind:to="navbarLink.link" v-on:click.native="showMenu = !showMenu" class="scrollspy-find">{{ navbarLink.title }}</router-link>
                             </li>
+                        </ul>
+                        <ul class="media-profiles-ul" style="color:#000;">
+                            <li><a href="https://github.com/devgranty" target="_blank"><i class="fab fa-github"></i></a></li>
+                            <li><a href="https://ng.linkedin.com/in/grant-adiele-6533741b3" target="_blank"><i class="fab fa-linkedin"></i></a></li>
+                            <li><a href="https://twitter.com/devgranty" target="_blank"><i class="fab fa-twitter-square"></i></a></li>
+                            <li><a href="https://www.instagram.com/devgranty/" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                            <!-- <li><a href="https://facebook.com/grant.adiele.12.0.0.1" target="_blank"><i class="fab fa-facebook-square"></i></a></li> -->
+                            <!-- <li><i class="fab fa-snapchat-square"></i></li> -->
                         </ul>
                     </nav>
                 </transition>

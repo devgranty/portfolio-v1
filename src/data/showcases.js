@@ -32,36 +32,6 @@ export default{
     },
 
 
-    "willow-investment" : {
-        projectName: 'Willow Investment', 
-        projectDate: '2019', 
-        projectDisplayPhotoPath: 'https://inspiring-bhabha-680629.netlify.app/willow_investment/screenshots/adult-attire-commerce-1367269.png', 
-        projectType: 'Web Design, Development', 
-        projectPlatform: 'Mobile, Tablet, Desktop', 
-        projectExternalLink: '//willowinvestment.net', 
-        projectContextPhotoPath: 'https://inspiring-bhabha-680629.netlify.app/willow_investment/willow-investment-context-2880x1800.png', 
-
-        projectDesc: `<p>Willow Investment is a Bitcoin Investment platform owned and managed by the Willow Group.</p>
-        <p>Is Willow secured? - Yes!, Willow is pefectly secured as no transactions are done on the site. All transactions require an encrypted bitcoin wallet and data is only transferred via APIs.</p>`, 
-
-        projectPlanning: `<p><strong>Problem Solving</strong> <br> The entire idea was to create something that allowed commumication between cryptocurrencies, store them, perform mathematical operations on them without them being there. This had to be as accurate as possible.</p>
-        <p>To solve this problem we resort to APIs - Application Programming Interface. We could store somewhere else while making things happen in those places and returning accurate results in their exact quantities and not enhanced. PROBLEM SOLVED!</p>
-        <p><strong>Design &amp; Development</strong> <br> Willow Investment like any other project I've worked on sort simplicity in the highest form, we won't want delays in communications, so we sort after the best yet lightest technology stacks to make this happen. Bootstrap 3 was used to quickly create style the markup, Jquery with JavaScript.</p>
-        <p>For development PHP 7, an early version of a framework I developed and MySQL was used as our database.</p>`, 
-
-        projectResult: `<p>"Amazing work Grant!", Delivering quickly, while making the entire project fuctional and intutive is not just about selecting the right code stack, the technologies has to be used correctly. Cheers to another great success 🥂</p>`, 
-
-        projectScreenshots: [
-            {src: 'https://inspiring-bhabha-680629.netlify.app/willow_investment/screenshots/localhost_projects_willow_investment_(Laptop with MDPI screen).png'}, 
-            {src: 'https://inspiring-bhabha-680629.netlify.app/willow_investment/screenshots/localhost_projects_willow_investment_signup.php(Laptop with MDPI screen).png'}, 
-            {src: 'https://inspiring-bhabha-680629.netlify.app/willow_investment/screenshots/localhost_projects_willow_investment_account_login.php(Laptop with MDPI screen).png'},
-            {src: 'https://inspiring-bhabha-680629.netlify.app/willow_investment/screenshots/localhost_projects_willow_investment_(Laptop with MDPI screen) (3).png'},
-            {src: 'https://inspiring-bhabha-680629.netlify.app/willow_investment/screenshots/localhost_projects_willow_investment_(Laptop with MDPI screen) (1).png'},
-            {src: 'https://inspiring-bhabha-680629.netlify.app/willow_investment/screenshots/localhost_projects_willow_investment_(Laptop with MDPI screen) (2).png'},
-        ]
-    },
-
-
     "movynet" : {
         projectName: 'Movynet', 
         projectDate: '2019', 
@@ -123,32 +93,6 @@ export default{
             {src: 'https://inspiring-bhabha-680629.netlify.app/jovianbiz/screenshots/www.localhost_projects_jovianbiz_hair_category.php_cat=h_h_w(Laptop with MDPI screen).png'},
             {src: 'https://inspiring-bhabha-680629.netlify.app/jovianbiz/screenshots/www.localhost_projects_jovianbiz_hair_product.php_pid=16(Laptop with MDPI screen).png'},
             {src: 'https://inspiring-bhabha-680629.netlify.app/jovianbiz/screenshots/www.localhost_projects_jovianbiz_services_(Laptop with MDPI screen) (1).png'}
-        ]
-    },
-
-
-    "advbitcoinearns" : {
-        projectName: 'AdvBitcoinEarns', 
-        projectDate: '2018', 
-        projectDisplayPhotoPath: 'https://inspiring-bhabha-680629.netlify.app/advbitcoinearns/screenshots/2847547.png', 
-        projectType: 'Web Design, Development', 
-        projectPlatform: 'Mobile, Tablet, Desktop', 
-        projectExternalLink: '//advbitcoinearns.com', 
-        projectContextPhotoPath: 'https://inspiring-bhabha-680629.netlify.app/advbitcoinearns/advbitcoinearns-context-2880x1800.png', 
-        projectDesc: '<p>AdvBitcoinEarns is a bitcoin investment platform, created for the sole purpose of safe and secure bitcoin investments.</p>', 
-
-        projectPlanning: `<p>AdvBitoinEarns design and development was one of the quickest and fastest I have ever worked on. This was a result of the AdvBitcoinEarns group's need to launch the platform as quick as possible.</p>
-        <p>The entire project took about 3 weeks to complete, as there were ni frameworks or library used in the development of the project. The entire frontend was created with custom design codes.</p>
-        <p>The backend fully powered by PHP and a MySQL server utilizing APIs and method of communication.</p>`, 
-
-        projectResult: `<p>Since AdvBitcoinEarns was one my earliest independent project developemt, I was able to understand most functionalities of a web app and better ways to improve functionality, design and development.</p>`, 
-
-        projectScreenshots: [
-            {src: 'https://inspiring-bhabha-680629.netlify.app/advbitcoinearns/screenshots/www.localhost_projects_advbitcoinearns_(Laptop with MDPI screen).png'},
-            {src: 'https://inspiring-bhabha-680629.netlify.app/advbitcoinearns/screenshots/www.localhost_projects_advbitcoinearns_signup.php(Laptop with MDPI screen).png'},
-            {src: 'https://inspiring-bhabha-680629.netlify.app/advbitcoinearns/screenshots/www.localhost_projects_advbitcoinearns_login_(Laptop with MDPI screen).png'},
-            {src: 'https://inspiring-bhabha-680629.netlify.app/advbitcoinearns/screenshots/www.localhost_projects_advbitcoinearns_login_withdraw.php(Laptop with MDPI screen).png'},
-            {src: 'https://inspiring-bhabha-680629.netlify.app/advbitcoinearns/screenshots/www.localhost_projects_advbitcoinearns_index.php(Laptop with MDPI screen).png'},
         ]
     },
 
