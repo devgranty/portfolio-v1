@@ -49,8 +49,7 @@ body{font-family: 'Raleway', sans-serif; background:var(--primary-color);}
 .section-anchor-id{font-size:15px;}
 .section-headline{margin-bottom:20px; color:#444}
 
-.about-me-note > p{color:var(--primary-color); margin:5px 0; line-height:1.5;}
-.about-me-note > p:not(:first-child){font-weight:bold;}
+.about-me-note > p{color:var(--primary-color); margin:5px 0; line-height:1.5; font-weight:bold;}
 
 .project-card{transition:all ease-in-out 300ms;}
 .project-link{display:inline-block; text-decoration:none; color:inherit; transition:all linear 200ms;}
