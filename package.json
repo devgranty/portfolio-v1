@@ -1,7 +1,7 @@
 {
-  "name": "grantadiele",
+  "name": "portfolio-v1",
   "version": "1.0.0",
-  "description": "Portfoilo of Grant Adiele",
+  "description": "my first test vue project",
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
